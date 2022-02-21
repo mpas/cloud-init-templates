@@ -11,7 +11,7 @@
 #   --cloud-init cloud-init-docker-docker-compose.yaml
 #
 # Example using defaults:
-# $ $ multipass lounch --name fakedocker --disk 20G --cloud-init cloud-init-docker-docker-compose.yaml
+# $ multipass lounch --name fakedocker --disk 20G --cloud-init cloud-init-docker-docker-compose.yaml
 #
 # Will launch an image with 1 CPU and 1 GB of memory using 20GB og disk space.
 #
